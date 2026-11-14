@@ -1,0 +1,10 @@
+{
+  "name": "outil",
+  "version": "1.0.0",
+  "description": "Outil.io — all-in-one marketing platform: sites, funnels, CRM, newsletters, courses, and automation. Connects AI assistants to Outil.io data and workflows via MCP.",
+  "mcpServers": {
+    "outil": {
+      "url": "https://outil.io/mcp"
+    }
+  }
+}
